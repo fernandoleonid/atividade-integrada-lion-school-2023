@@ -31,11 +31,11 @@ Deverá criar um servidor API implementando somente o método GET, contendo os s
 
 Método | End-point | Descrição 
 ---|---|---
-**GET** | /lion-school/v1/cursos |  Recupera uma lista de todos os cursos oferecidos pela escola.
-**GET** | /lion-school/v1/alunos |  Recupera uma lista de todos os alunos matriculados na escola.
-**GET** | /lion-school/v1/alunos/{matricula} | Recupera informações de um aluno específico com base no número de matrícula.
-**GET** | /lion-school/v1/alunos?curso={ds}: | Recupera uma lista de todos os alunos matriculados no curso especificado.
-**GET** | /lion-school/v1/alunos?status={finalizado} | Recupera uma lista de todos os alunos com o status especificado.
+**GET** | /v1/lion-school/cursos |  Recupera uma lista de todos os cursos oferecidos pela escola.
+**GET** | /v1/lion-school/alunos |  Recupera uma lista de todos os alunos matriculados na escola.
+**GET** | /v1/lion-school/alunos/{matricula} | Recupera informações de um aluno específico com base no número de matrícula.
+**GET** | /v1/lion-school/alunos?curso={ds}: | Recupera uma lista de todos os alunos matriculados no curso especificado.
+**GET** | /v1/lion-school/alunos?status={finalizado} | Recupera uma lista de todos os alunos com o status especificado.
 
 > Obs.: A turma inteira deverá entrar em acordo para determinar o JSON de resposta de cada end-point
 
