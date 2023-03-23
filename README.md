@@ -1,5 +1,7 @@
 # Atividade integrada - SENAI 2023
 
+![](https://repository-images.githubusercontent.com/618073290/a3f02c70-b7f2-4962-a5fa-ce29c81af351)
+
 ## Objetivo
 A atividade tem como objetivo integrar as disciplinas de PWFE (Programação web Front-end) e PWBE (Programação web Back-end) do curso de desenvolvimento de sistemas do SENAI Jandira.
 
