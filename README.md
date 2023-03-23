@@ -27,13 +27,13 @@ Clique [aqui](https://reliable-yttrium-924.notion.site/7e8be653064c42eab044b543f
 ## Projeto Back-end
 Deverá criar um servidor API implementando somente o método GET, contendo os seguintes end-points:
 
-End-point | Descrição 
----|---
-**GET** /lion-school/v1/cursos |  Recupera uma lista de todos os cursos oferecidos pela escola.
-**GET** /lion-school/v1/alunos |  Recupera uma lista de todos os alunos matriculados na escola.
-**GET** /lion-school/v1/alunos/{matricula} | Recupera informações de um aluno específico com base no número de matrícula.
-**GET** /lion-school/v1/alunos?curso={ds}: | Recupera uma lista de todos os alunos matriculados no curso especificado.
-**GET** /lion-school/v1/alunos?status={finalizado} | Recupera uma lista de todos os alunos com o status especificado.
+Método | End-point | Descrição 
+---|---|---
+**GET** | /lion-school/v1/cursos |  Recupera uma lista de todos os cursos oferecidos pela escola.
+**GET** | /lion-school/v1/alunos |  Recupera uma lista de todos os alunos matriculados na escola.
+**GET** | /lion-school/v1/alunos/{matricula} | Recupera informações de um aluno específico com base no número de matrícula.
+**GET** | /lion-school/v1/alunos?curso={ds}: | Recupera uma lista de todos os alunos matriculados no curso especificado.
+**GET** | /lion-school/v1/alunos?status={finalizado} | Recupera uma lista de todos os alunos com o status especificado.
 
 > Obs.: A turma inteira deverá entrar em acordo para determinar o JSON de resposta de cada end-point
 
