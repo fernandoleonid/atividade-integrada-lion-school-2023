@@ -40,14 +40,38 @@ Método | End-point | Descrição
 > Obs.: A turma inteira deverá entrar em acordo para determinar o JSON de resposta de cada end-point
 
 
-### Entregas
+## Sugestão de trabalho
+
+### Etapa 1:
+- Criação do ambiente de desenvolvimento (back-end e front-end)
+- Implementação do método GET para recuperar a lista de cursos
+- Implementação da tela que exibe a lista de cursos
+- 
+### Etapa 2:
+- Implementação do método GET para recuperar a lista de alunos
+- Implementação da tela que exibe a lista de alunos por curso
+- Implementação da lógica para filtrar os alunos por curso
+- 
+### Etapa 3:
+- Implementação do método GET para recuperar as informações de um aluno específico
+- Implementação da tela que exibe as informações de um aluno selecionado
+- Implementação da lógica para selecionar um aluno específico
+
+### Etapa 4:
+- Implementação do método GET para recuperar a lista de alunos por status
+- Implementação da lógica para filtrar os alunos por status
+- Implementação da lógica para navegar entre as telas
+
+
+## Entregas
 - [ ] Cronograma de atividades
 - [ ] Documentação da API
 - [ ] Postman 
 
 ---
-### Desafio extra
-- Publique o back-end na nuvem
+## Desafio extra
+- Além do GitHub Pages, pesquise e implemente outras opções gratuitas para hospedar o front-end.
+- Implemente o back-end na plataforma da Microsoft Azure e pesquisa outras opções gratuitas.
 
 ### Professores
 - [Fernando Leonid](https://github.com/fernandoleonid)
