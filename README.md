@@ -43,22 +43,22 @@ Método | End-point | Descrição
 
 ## Sugestão de trabalho
 
-### Etapa 1:
+### Sprint 1:
 - Criação do ambiente de desenvolvimento (back-end e front-end)
 - Implementação do método GET para recuperar a lista de cursos
 - Implementação da tela que exibe a lista de cursos
   
-### Etapa 2:
+### Sprint 2:
 - Implementação do método GET para recuperar a lista de alunos
 - Implementação da tela que exibe a lista de alunos por curso
 - Implementação da lógica para filtrar os alunos por curso
   
-### Etapa 3:
+### Sprint 3:
 - Implementação do método GET para recuperar as informações de um aluno específico
 - Implementação da tela que exibe as informações de um aluno selecionado
 - Implementação da lógica para selecionar um aluno específico
 
-### Etapa 4:
+### Sprint 4:
 - Implementação do método GET para recuperar a lista de alunos por status
 - Implementação da lógica para filtrar os alunos por status
 - Implementação da lógica para navegar entre as telas
