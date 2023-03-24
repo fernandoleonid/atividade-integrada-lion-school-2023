@@ -39,6 +39,7 @@ Método | End-point | Descrição
 
 > Obs.: A turma inteira deverá entrar em acordo para determinar o JSON de resposta de cada end-point
 
+---
 
 ## Sugestão de trabalho
 
@@ -46,12 +47,12 @@ Método | End-point | Descrição
 - Criação do ambiente de desenvolvimento (back-end e front-end)
 - Implementação do método GET para recuperar a lista de cursos
 - Implementação da tela que exibe a lista de cursos
-- 
+  
 ### Etapa 2:
 - Implementação do método GET para recuperar a lista de alunos
 - Implementação da tela que exibe a lista de alunos por curso
 - Implementação da lógica para filtrar os alunos por curso
-- 
+  
 ### Etapa 3:
 - Implementação do método GET para recuperar as informações de um aluno específico
 - Implementação da tela que exibe as informações de um aluno selecionado
@@ -62,6 +63,7 @@ Método | End-point | Descrição
 - Implementação da lógica para filtrar os alunos por status
 - Implementação da lógica para navegar entre as telas
 
+---
 
 ## Entregas
 - [ ] Cronograma de atividades
@@ -69,6 +71,7 @@ Método | End-point | Descrição
 - [ ] Postman 
 
 ---
+
 ## Desafio extra
 - Além do GitHub Pages, pesquise e implemente outras opções gratuitas para hospedar o front-end.
 - Implemente o back-end na plataforma da Microsoft Azure e pesquisa outras opções gratuitas.
