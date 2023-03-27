@@ -27,7 +27,7 @@ Clique [aqui](https://reliable-yttrium-924.notion.site/7e8be653064c42eab044b543f
 
 ---
 ## Projeto Back-end
-Deverá criar um servidor API implementando somente o método GET, contendo os seguintes end-points:
+Deverá criar um servidor API implementando somente o EndPoint na API, contendo os seguintes end-points:
 
 Método | End-point | Descrição 
 ---|---|---
@@ -37,31 +37,31 @@ Método | End-point | Descrição
 **GET** | /v1/lion-school/alunos?curso={ds}: | Recupera uma lista de todos os alunos matriculados no curso especificado.
 **GET** | /v1/lion-school/alunos?status={finalizado} | Recupera uma lista de todos os alunos com o status especificado.
 
-> Obs.: A turma inteira deverá entrar em acordo para determinar o JSON de resposta de cada end-point
 
 ---
 
 ## Sugestão de trabalho
 
 ### Sprint 1:
-- Criação do ambiente de desenvolvimento (back-end e front-end)
-- Implementação do método GET para recuperar a lista de cursos
+- Implementação do EndPoint na API para recuperar a lista de cursos
 - Implementação da tela que exibe a lista de cursos
   
 ### Sprint 2:
-- Implementação do método GET para recuperar a lista de alunos
+- Implementação do EndPoint na API para recuperar a lista de alunos
 - Implementação da tela que exibe a lista de alunos por curso
 - Implementação da lógica para filtrar os alunos por curso
+- Implementação da lógica para navegar entre as telas
   
 ### Sprint 3:
-- Implementação do método GET para recuperar as informações de um aluno específico
+- Implementação do EndPoint na API para recuperar as informações de um aluno específico
 - Implementação da tela que exibe as informações de um aluno selecionado
 - Implementação da lógica para selecionar um aluno específico
 
 ### Sprint 4:
-- Implementação do método GET para recuperar a lista de alunos por status
+- Implementação do EndPoint na API para recuperar a lista de alunos por status
 - Implementação da lógica para filtrar os alunos por status
-- Implementação da lógica para navegar entre as telas
+- Implementação dos dados do gráfico
+
 
 ---
 
