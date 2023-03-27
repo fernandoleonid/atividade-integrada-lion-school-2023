@@ -23,8 +23,6 @@ Deverá consumir a API e criar as páginas conforme o designer feito no [figma](
 - [ ] Foi implementado a responsividade conforme planejado no Figma?
 - [ ] Foi criado o filtro por ano?
 
-Clique [aqui](https://reliable-yttrium-924.notion.site/7e8be653064c42eab044b543fa4391e1?v=2b3db2ab3f3048eea7b752613c817597) para acompanhar a correção
-
 ---
 ## Projeto Back-end
 Deverá criar um servidor API implementando somente o EndPoint na API, contendo os seguintes end-points:
